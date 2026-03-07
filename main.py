@@ -1,8 +1,3 @@
-# Universidade Federal do Mato Grosso
-# Disciplina: Redes de Computadores
-# Discente: Guilherme da Silva Ferraz
-# RGA: 202211722013
-# Trabalho 1 - Jogo Multiplayer
 import sys
 import pyxel
 import random 
