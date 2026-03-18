@@ -28,5 +28,11 @@ sudo apt install libasound2-dev libx11-dev
 
 **No Computador 1 (Jogador 1):**
 ```bash
-python3 main.py *ip* p1
-python3 main.py *ip* p2
+python3 main.py <IP_DO_SERVIDOR> p1
+python3 main.py <IP_DO_SERVIDOR> p2
+
+´markdown
+### ⌨️ Controles
+| Ação | Jogador 1 (P1) | Jogador 2 (P2) |
+| Movimentação |        |                |
+
