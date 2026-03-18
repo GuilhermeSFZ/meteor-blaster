@@ -8,10 +8,11 @@ Antes de rodar o jogo, você precisará instalar o Python e a biblioteca Pyxel e
 ```bash
 # Instalação do Pyxel
 pip install pyxel
-
+´´
 # No Linux (Ubuntu/Debian), caso necessário:
+``
 sudo apt install libasound2-dev libx11-dev
-
+´´
 ```markdown
 ## 📂 Estrutura do Projeto
 
@@ -22,7 +23,7 @@ sudo apt install libasound2-dev libx11-dev
 ├── echo_client.py     # Lógica de comunicação de rede
 └── assets/
     └── recursos.pyxres # Sprites, sons e trilha sonora
-
+´´
 ```markdown
 ## 🚀 Como Jogar
 
