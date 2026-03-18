@@ -11,3 +11,22 @@ pip install pyxel
 
 # No Linux (Ubuntu/Debian), caso necessário:
 sudo apt install libasound2-dev libx11-dev
+
+```markdown
+## 📂 Estrutura do Projeto
+
+```text
+/
+├── main.py            # Arquivo principal do jogo (Client)
+├── echo_server.py     # Servidor que sincroniza os dados
+├── echo_client.py     # Lógica de comunicação de rede
+└── assets/
+    └── recursos.pyxres # Sprites, sons e trilha sonora
+
+```markdown
+## 🚀 Como Jogar
+
+**No Computador 1 (Jogador 1):**
+```bash
+python3 main.py *ip* p1
+python3 main.py *ip* p2
