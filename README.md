@@ -30,9 +30,9 @@ sudo apt install libasound2-dev libx11-dev
 ```bash
 python3 main.py <IP_DO_SERVIDOR> p1
 python3 main.py <IP_DO_SERVIDOR> p2
-´´
+
 ´markdown
 ### ⌨️ Controles
 | Ação | Jogador 1 (P1) | Jogador 2 (P2) |
 | Movimentação |        |                |
-
+´´
