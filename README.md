@@ -51,4 +51,7 @@ python3 main.py <IP_DO_SERVIDOR> p2
 
 | Ação          | Jogador 1 (P1) | Jogador 2 (P2) |
 |---------------|---------------|---------------|
-| Movimentação  |               |               |
+| Movimentação  | Teclas A e D  |Setas Esq e Dir|
+|---------------|---------------|---------------|
+| Disparo       | Barra de espaço | Enter ou clique no mouse |
+|---------------|---------------|---------------|
