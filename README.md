@@ -56,4 +56,4 @@ python3 main.py <IP_DO_SERVIDOR> p2
 
 ## 👤 Autor
 
-Seu Nome  Guilherme da Silva Ferraz.
+Guilherme da Silva Ferraz.
