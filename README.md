@@ -1,4 +1,4 @@
-# Meteor Blaster: A Network Multiplayer Game
+# ☄️Meteor Blaster: A Network Multiplayer Game
 
 **Destruidor de Meteoros** é um arcade de tiro espacial cooperativo onde dois jogadores precisam unir forças para defender a base. Desenvolvido em **Python** com a biblioteca **Pyxel**, o foco do projeto é a comunicação de baixa latência via **Sockets UDP**.
 
