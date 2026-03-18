@@ -15,9 +15,8 @@ pip install pyxel
 
 # No Linux (Ubuntu/Debian), caso necessário para drivers de som/imagem:
 sudo apt install libasound2-dev libx11-dev
-```markdown
-## 📂 Estrutura do Projeto
 
+## 📂 Estrutura do Projeto
 ```text
 /
 ├── main.py            # Arquivo principal do jogo (Client)
@@ -25,7 +24,7 @@ sudo apt install libasound2-dev libx11-dev
 ├── echo_client.py     # Lógica de comunicação de rede
 └── assets/
     └── recursos.pyxres # Sprites, sons e trilha sonora
-´´
+
 ```markdown
 ## 🚀 Como Jogar
 
