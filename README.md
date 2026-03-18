@@ -53,3 +53,7 @@ python3 main.py <IP_DO_SERVIDOR> p2
 |---------------|---------------|---------------|
 | Movimentação  | Teclas A e D  |Setas Esq e Dir|
 | Disparo       | Barra de espaço | Enter ou clique no mouse |
+
+## 👤 Autor
+
+Seu Nome  Guilherme da Silva Ferraz.
